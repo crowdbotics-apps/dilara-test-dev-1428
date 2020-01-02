@@ -1,0 +1,3 @@
+rootProject.name = 'dilara_test_dev_1428'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
